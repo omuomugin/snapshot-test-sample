@@ -1,0 +1,13 @@
+{
+  "workspace": "snapshot-test",
+  "scheme": "snapshot-test",
+  "test_target": "snapshot-testTests",
+  "test_path": "CellTest",
+  "destination_names": [
+    "iPhone 8",
+    "iPhone 8 Plus",
+    "iPhone 11",
+    "iPhone 11 Pro",
+    "iPhone 11 Pro Max"
+  ]
+}
